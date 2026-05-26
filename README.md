@@ -108,7 +108,6 @@ streamlit run app.py
 
 - Naive Bayes
 - Logistic Regression
-- Support Vector Machine (SVM)
 
 ---
 
