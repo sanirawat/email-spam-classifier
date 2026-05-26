@@ -90,13 +90,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
-### For Flask
-
-```bash
-python app.py
-```
-
 ---
 
 ##  Machine Learning Workflow
