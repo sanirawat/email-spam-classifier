@@ -12,6 +12,7 @@ The classifier analyzes the text content and predicts:
 - ✅ Not Spam (Ham)
 - 🚫 Spam
 
+---
 
 ## Features
 
@@ -22,6 +23,7 @@ The classifier analyzes the text content and predicts:
 - 💾 Saved trained model using Pickle
 - 📊 Simple and user-friendly interface
 
+---
 
 ##  Tech Stack
 
@@ -32,7 +34,8 @@ The classifier analyzes the text content and predicts:
 - NLTK
 - TF-IDF Vectorizer
 - Streamlit
-
+  
+---
 
 ## Project Structure
 
@@ -47,7 +50,7 @@ email-spam-classifier/
 ├── notebook.ipynb
 └── README.md
 ```
-
+---
 
 ## How It Works
 
@@ -61,7 +64,7 @@ email-spam-classifier/
 3. Text is converted using TF-IDF Vectorization
 4. The trained model predicts whether the message is spam or not
 
-
+---
 
 ## Installation
 
@@ -106,7 +109,7 @@ python app.py
 - Model Evaluation
 - Prediction
 
-
+---
 
 ##  Algorithms Used
 
